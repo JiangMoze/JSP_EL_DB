@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/EL/CollectServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/EL/EmployeeServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/EL/VariableServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Filter/controller/AddCustomerServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Filter/filter/LogFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TouPiao/EA.java" charset="GBK" />
+  </component>
+</project>
