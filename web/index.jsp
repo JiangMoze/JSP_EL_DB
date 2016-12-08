@@ -18,5 +18,12 @@
   <a href="queryProduct.jsp">JDBC测试</a><br>
   <a href="vote.jsp">投票测试</a><br>
   <a href="addCustomer.jsp">过滤器测试</a><br>
+  <a href="loop.jsp">标签</a><br>
+  <a href="register.jsp">标签</a><br>
+  <a href="marker.jsp">自定义标签</a><br>
+  <a href="dobody.jsp">标签</a><br>
+  <a href="table99.jsp">JSTL</a><br>
+
+
   </body>
 </html>
